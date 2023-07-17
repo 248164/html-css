@@ -1,0 +1,89 @@
+body{
+	background: url("../../img/bj1.jpg") no-repeat;
+	background-size: 100% ;
+	position: relative;
+	height: 700px;
+	padding-top: 20px;
+}
+header ul{
+	width: 90%;
+	display: flex;
+	justify-content: space-around;
+	margin: 20px auto;
+}
+header ul li{
+	width: 9.7%;
+}
+header ul li a{
+	color: #fff;
+	display: block;
+	background-color: rgba(0,0,0,0.4);
+	border: 1px solid gray;
+	text-align: center;
+	line-height: 45px;
+	font-size: 14px;
+	border-radius: 5px;
+}
+main .text{
+	width: 40%;
+	padding: 20px;
+	background-color: rgba(255,255,255,0.20);
+	border-radius: 26px;
+	margin-left: 20px;
+}
+main h1{
+	color:#FFFFFF;
+	line-height: 50px;
+	text-align: center;
+}
+main .text p{
+	color: black;
+	font-size: 13px;
+	line-height: 30px;
+	text-indent: 2em;
+}
+main .ping{
+	width: 45%;
+	text-indent: 2em;
+	font-size: 14px;
+	line-height: 30px;
+	padding: 20px;
+	transform: translate(0px,100px)
+}
+main .ping .p1{
+	color: #FF6D70;
+	background-color: rgba(255,255,255,0.80);
+	border-top-right-radius:  26px;
+	border-top-left-radius:  26px;
+}
+main .ping .p2{
+	color: #FF7477;
+	background-color: rgba(255,255,255,0.75);
+}
+main .ping .p3{
+	color: #FF8183;
+	background-color: rgba(255,255,255,0.70);
+}
+main .ping .p4{
+	color: #FF8E8E;
+	background-color: rgba(255,255,255,0.65);
+}
+main .ping .p5{
+	color: #FFA3A5;
+	background-color: rgba(255,255,255,0.60);
+}
+main .ping .p6{
+	color: #FFABAD;
+	background-color: rgba(255,255,255,0.55);
+	border-bottom-right-radius:  26px;
+	border-bottom-left-radius:  26px;
+}
+.aud1{
+	transform: translate(1000px,-320px);
+}
+.img12{
+	transform: translate(700px,-400px);
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;	
+}

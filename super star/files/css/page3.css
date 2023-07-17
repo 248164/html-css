@@ -1,0 +1,49 @@
+main ul{
+	width: 80%;
+	margin: 30px auto;
+	margin-bottom: 30px;
+}
+main ul li{
+	margin-bottom: 10px;
+	background-color: rgba(0,0,0,0.50);
+}
+main ul li p{
+	color: #C6C6C6; 
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+main ul li img{
+	float: left;
+	display: block;
+	margin-right: 30px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+main .ul_3{
+	width: 70%;
+	margin:20px auto;
+}
+main .ul_3 li{
+	width: 50%;
+	border-bottom: 1px solid rgba(0,0,0,0.3);
+	float: left;
+	height: 150px;
+}
+main .ul_3 h4,main .ul_3 h5,main .ul_3 p{
+	line-height: 30px;
+}
+
+.ul_3 img{
+	border-width: 10px;
+	border-color: #FFFFFF;
+	border-style: solid;
+}
+
+.sd{
+	font-size: 10px;
+	color: #FFFFFF;
+	
+}
+.sdd{
+	font-size: 12px;
+}

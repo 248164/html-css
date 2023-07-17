@@ -1,0 +1,39 @@
+body{
+	background: url("../../img/zp5.jpg");
+	background-size: 100%;
+}
+main div{
+	font-size: 14px;
+	background-color: rgba(0,0,0,0.1);
+	padding: 20px;
+	line-height: 28px;
+	text-indent: 2em;
+	float: left;
+	width: 60%;
+	transform: translate(10px,100px)
+}
+main img:nth-of-type(1){
+	float: right;
+	margin: 0 10px 20px 20px; 
+	width: 36%;
+	height: 290px;
+	display: block;
+}
+main ul.ul1{
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+}
+main ul li{
+	line-height: 28px;
+	font-size: 14px;
+}
+.img1{
+	border-style: solid;
+	border-color: white;
+	border-top-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	transform: translate(0px,100px)
+}
